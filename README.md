@@ -1,4 +1,4 @@
 # IntentActivity
-A simple android application implement intent using Android Studio
+A simple android application implementing intent using Android Studio
 
 Includes Implicit and Explicit intent
